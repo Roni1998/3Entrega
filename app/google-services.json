@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067466560731",
+    "firebase_url": "https://remediosya-8b817.firebaseio.com",
+    "project_id": "remediosya-8b817",
+    "storage_bucket": "remediosya-8b817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067466560731:android:9d625cc89e559e648168fe",
+        "android_client_info": {
+          "package_name": "com.eist.miaplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067466560731-u95a5j8gou563dgioq5004k5iovi43jm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eist.miaplicacion",
+            "certificate_hash": "5daa44a11ede3e522c512118a4797b59c07ae654"
+          }
+        },
+        {
+          "client_id": "1067466560731-sfv9e1u34efp5m3pdvmd9mscd2c96anr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvuyeB6_T5xEVXVXu1zWCStujF-EtVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067466560731-sfv9e1u34efp5m3pdvmd9mscd2c96anr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
