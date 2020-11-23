@@ -37,7 +37,8 @@
             android:name=".Navegador"
             android:label="@string/title_activity_navegador"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Home" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".ProfileActivity"/>
         <activity android:name=".SplashSanto">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
